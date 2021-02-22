@@ -4,7 +4,7 @@ const input = require('readline-sync');
 let namePrompt="What is your name? ";
 
 // TODO 1.1a: Define candidateName // 
-let candidateName=" ";
+let candidateName="";
 // TODO 1.2a: Define question, correctAnswer, and candidateAnswer //
 let question="Who was the first American woman in space? ";
 let correctAnswer="Sally Ride.";
