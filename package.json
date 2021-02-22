@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jasmine": "^3.6.3",
+    "npm": "^7.5.4",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
