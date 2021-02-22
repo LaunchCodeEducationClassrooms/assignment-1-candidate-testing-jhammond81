@@ -32,7 +32,7 @@ return ansArr;
 
 }
 
-function gradeQuiz(candidateAnswers, correctAnswers){
+function gradeQuiz(candidateAnswers){
     
 
   // TODO 1.2c: Let the candidate know if they have answered the question correctly or incorrectly // 
@@ -71,7 +71,7 @@ function runProgram() {
   // TODO 1.1c: Ask for candidate's name //
   
   candidateAnswers=askQuestion(questions);
-  grade=gradeQuiz(candidateAnswers,correctAnswers);
+  grade=gradeQuiz(candidateAnswers);
 }
 
 // Don't write any code below this line //
